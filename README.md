@@ -6,4 +6,4 @@ Experience software engineer with B.sc in computer science.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofirelarat&&layout=compact&langs_count=8)
 
-📫 How to reach me: [email](mailto:96ofir11@gmail.com) or [linkedin](www.linkedin.com/in/ofir-elarat)
+📫 How to reach me: [email](mailto:96ofir11@gmail.com) or [linkedin](https://www.linkedin.com/in/ofir-elarat)
